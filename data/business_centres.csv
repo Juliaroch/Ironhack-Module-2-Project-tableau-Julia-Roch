@@ -1,0 +1,292 @@
+,City,Country,Business district
+0,Abidjan,Côte d'Ivoire,Le Plateau
+1,Abuja,Nigeria,Central District
+2,Accra,Ghana,Accra Central Business District
+3,Addis Ababa,Ethiopia,Downtown
+4,Algiers,Algeria,Alger Centre
+5,Gaborone,Botswana,iTowers of Masa Square CBD
+6,Cairo,Egypt,Central Business District
+7,Cape Town,South Africa,"Central Business District, Century City, Claremont, Bellville"
+8,Casablanca,Morocco,Twin Center
+9,Dakar,Senegal,Plateau
+10,Dar es Salaam,Tanzania,Ilala
+11,Durban,South Africa,"Central Business District, Umhlanga"
+12,Harare,Zimbabwe,Downtown
+13,Johannesburg,South Africa,"Central Business District, Sandton, Rosebank, Marlboro, Rhodesfield, Midrand"
+14,Kampala,Uganda,Nakasero
+15,Khartoum,Sudan,Downtown
+16,Kinshasa,Democratic Republic of the Congo,La Gombe
+17,Lagos,Nigeria,"Victoria Island, Lagos Island, Eko"
+18,Luanda,Angola,Ingombota
+19,Maputo,Mozambique,Downtown
+20,Mombasa,Kenya,Mombasa Island
+21,Nairobi,Kenya,"Central Business District, Upper Hill"
+22,Port Louis,Mauritius,Area around Caudan Waterfront
+23,Pretoria,South Africa,"Central Business District, Hatfield, Centurion"
+24,Tripoli,Libya,Central Business District
+25,Tunis,Tunisia,Avenue Habib Bourguiba
+26,Windhoek,Namibia,Central Business District
+0,Ahmedabad and Gandhinagar,India,Gujarat International Finance Tec-City
+1,Amman,Jordan,Abdali
+2,Bacolod,Philippines,"Capitol Central, Northpoint Talisay"
+3,Bangalore,India,"MG Road Shivajinagar, Bangalore Central Business District, Electronic City,Whitefield"
+4,Bandung,Indonesia,Asia-Africa
+5,Bangkok,Thailand,"Core CBD: Sathorn, Silom, Phloenchit, Asok[1] New CBD: Phraram 9, Phetchaburi[2]"
+6,Beijing,PR China,Beijing CBD and Beijing Financial Street
+7,Beirut,Lebanon,"Hamra Street, Beirut Central District"
+8,Busan,South Korea,"Busanjin, Jung, Haeundae"
+9,Can Tho,Vietnam,Ninh Kieu District
+10,Cebu City,Philippines,"Cebu Business Park, Cebu IT Park, South Road Properties, Mandani Bay"
+11,Chandigarh,India,Sector 17
+12,Chennai,India,"Anna Salai, T Nagar, Parry's Corner, Nungambakkam"
+13,Chiang Mai,Thailand,"Chang Khlan Road (Chiang Mai Night Bazaar), Airport Business Park, Chiang Mai Business Park"
+14,Coimbatore,India,"Avinashi Road, Gandhipuram, RS Puram"
+15,Chiba,Japan,"Chūō-ku, Mihama"
+16,Chittagong,Bangladesh,Agrabad
+17,Chongqing,PR China,"Jeifangbei Downtown, Jiangbei New City CBD"
+18,Davao City,Philippines,"Davao Park District, Abreeza Ayala Center, Azuela Cove, Pryce Business Park"
+19,Daegu,South Korea,"Jung, Daegu-Gyeongbuk Free Economic Zone"
+20,Daejeon,South Korea,"Jung, Seo (Dunsan)"
+21,Dalian,PR China,Dalian CBD
+22,Da Nang,Vietnam,Hai Chau District
+23,Dhaka,Bangladesh,Motijheel
+24,Doha,Qatar,West Bay
+25,Dubai,United Arab Emirates,"Downtown Burj Dubai, Business Bay"
+26,Faisalabad,Pakistan,D Ground
+27,Fukuoka,Japan,"Chūō-ku (Tenjin, Daimyō), Hakata-ku (Nakasu, Canal City Hakata, Area around Hakata Station)"
+28,George Town,Malaysia,"George Town CBD (Beach Street), Northam Road, Gurney Drive"
+29,Guangzhou,PR China,"Tianhe, Yuexiu"
+30,Hai Phong,Vietnam,Ngo Quyen District
+31,Hanoi,Vietnam,Hoan Kiem District
+32,Hatyai,Thailand,Hatyai Nai
+33,Ho Chi Minh City,Vietnam,District 1
+34,Hong Kong,Hong Kong,"Central, Wan Chai, Admiralty, West Kowloon, Tsim Sha Tsui, Kwun Tong"
+35,Hiroshima,Japan,Naka
+36,Hyderabad,India,"Nampally, HITEC City, Nanakramguda, Manikonda, Gachibowli, Koti and Himayatnagar"
+37,Iloilo City,Philippines,"Atria Park District, Iloilo Business Park"
+38,Incheon,South Korea,"Jung, Incheon Free Economic Zone (Songdo International City, Yeongjong Island, Cheongna)"
+39,Islamabad,Pakistan,"Jinnah Avenue, Blue Area"
+40,Jakarta,Indonesia,Golden Triangle of Jakarta/Central Jakarta
+41,Jerusalem,Israel,"Jaffa Road, Downtown Triangle"
+42,Johor Bahru,Malaysia,"Located in Jalan Wong Ah Fook, near the Johor-Singapore Causeway"
+43,Kaohsiung,Taiwan,"Cianjin, Lingya, Sinsing"
+44,Karachi,Pakistan,"Ibrahim Ismail Chundrigar Road, Shara-e-Faisal and Saddar Town, Clifton Cantonment, Rashid Minhas Road, Teen Talwar, Port Grand Food and Entertainment Complex, Civic Centre"
+45,Kobe,Japan,"Chūō-ku, Port Island, Hyōgo-ku, Rokkō Island, Area around Kōbe Station"
+46,Kochi,India,"Area around M.G Road, Edappally Lulu International Shopping Mall"
+47,Kolkata,India,Located in B.B.D. Bagh and Esplanade
+48,Kota Kinabalu,Malaysia,Kota Kinabalu Central Business District
+49,Kuala Lumpur,Malaysia,"Kuala Lumpur City Centre, Bukit Bintang, Jalan Tunku Abdul Rahman, Jalan Raja Chulan, Damansara Town Centre, Mid Valley City and KL Sentral"
+50,Kuching,Malaysia,Downtown Kuching
+51,Kyoto,Japan,"Nakagyō (Shijō Kawaramachi), Shimogyō (Area around Kyoto Tower and Kyōto Station)"
+52,Lahore,Pakistan,"Lahore CBD, Ferozepur Road, M. M. Alam road, Gulberg, Lahore"
+53,Medan,Indonesia,"Imam Bonjol, Diponegoro, Zainul Arifin"
+54,Metro Manila,Philippines,"Core CBD: Makati CBD, Ortigas Center, Bonifacio Global City, Manila Bay Area Secondary CBD: Alabang Business District, Triangle Park, Arca South, Binondo CBD, Eastwood City, Araneta Center"
+55,Mumbai and Navi Mumbai,India,"Ballard Estate, Nariman Point Cuffe Parade Colaba, Bandra Kurla Complexand CBD Belapur"
+56,Nagoya,Japan,"Naka (Sakae), Nakamura (Area around Nagoya Station)"
+57,New Delhi,India,"Connaught Place, Nehru Place"
+58,New Taipei,Taiwan,Area around Banqiao Station
+59,Osaka,Japan,"Shinimamiya (Umeda, Dōjima), Chūō-ku, Suminoe, Minato, Naniwa"
+60,Pattaya,Thailand,Pattaya Sai 1 and Sai 2
+61,Petaling Jaya,Malaysia,"Damansara Utama, Mutiara Damansara and Section 52"
+62,Ramat Gan,Israel,Diamond Exchange District
+63,Rawalpindi,Pakistan,"Saddar, Rawalpindi"
+64,Riyadh,Saudi Arabia,King Abdullah Financial District
+65,Sapporo,Japan,Chūō-ku
+66,Sendai,Japan,Aoba
+67,Seoul,South Korea,"Jongno District, Jung District, Gangnam District, Yeouid-do CBD"
+68,Shanghai,PR China,"The Bund, Lujiazui, People's Square, Jing'an District, and Xujiahui"
+69,Shah Alam,Malaysia,Turmalin Castle
+70,Shenzhen,PR China,"Around Luohu District's Shennan East Road, Futian DistrictLianhuashan Park Southern area till Shenzhen Convention and Exhibition Center, Nanshan DistrictHouhai company base and Qianhai Shenzhen-Hong Kong Modern Service Industry Cooperation Zone"
+71,Singapore,Singapore,Downtown Core
+72,Surabaya,Indonesia,Basuki Rahmat
+73,Taichung,Taiwan,7th Redevelopment Zone
+74,Taipei,Taiwan,"Xinyi Planned Area, Da'an, Datong, Zhongzheng (Area around Taipei Main Station)"
+75,Tehran,Iran,"Sadeghiyeh, Gheytarieh and Navvab (district)"
+76,Tel Aviv,Israel,Ayalon City
+77,Trivandrum,India,"MG Road, East Fort"
+78,Tokyo,Japan,"Akasaka, Ikebukuro, Roppongi, Marunouchi, Nihonbashi, Nishi-Shinjuku, Shinjuku, Shibuya, Shiodome"
+79,Visakhapatnam,India,"Dwaraka Nagar, Daba Gardens, Asilmetta, Siripuram"
+80,Yokohama,Japan,"Minato Mirai 21, Naka, Area around Yokohama Station"
+0,Aarhus,Denmark,Aarhus C
+1,Amsterdam,The Netherlands,"Amsterdam-Centrum, Omval, Teleport, Zuidas"
+2,Athens,Greece,"marousi, Syntagma Square Gerakas"
+3,Ankara,Turkey,"Söğütözü, Çukurambar"
+4,Barcelona,Spain,"Diagonal Mar, Gran Via, 22@"
+5,Belfast,"Northern Ireland, UK",City Centre
+6,Belgrade,Serbia,Novi Beograd
+7,Berlin,Germany,"Charlottenburg-Wilmersdorf (Kurfürstendamm, Area around Bahnhof Zoo), Mitte (Alexanderplatz, Potsdamer Platz)"
+8,Bern,Switzerland,Old City
+9,Birmingham,"England, UK","City Centre, Colmore Row, Westside and Bull Ring"
+10,Bologna,Italy,Fiera District
+11,Bratislava,Slovakia,
+12,Brescia,Italy,
+13,Brussels,Belgium,"Quartier Léopold, Quartier Nord"
+14,Bucharest,Romania,Piaţa Victoriei and Floreasca Business Centre/Pipera Business Centre
+15,Budapest,Hungary,"Leopoldtown-Inner City, Angel's Field"
+16,Cardiff,"Wales, UK",City Centre
+17,Cologne,Germany,Innenstadt
+18,Copenhagen,Denmark,Indre By
+19,Cork,Ireland,City Centre
+20,Dortmund,Germany,City
+21,Dublin,Ireland,2/4 Districts and IFSC
+22,Düsseldorf,Germany,Stadtmitte
+23,Edinburgh,"Scotland, UK","Edinburgh Park, George Street"
+24,Essen,Germany,Südviertel
+25,Frankfurt,Germany,Bankenviertel
+26,Geneva,Switzerland,Cité-centre
+27,Genoa,Italy,
+28,Glasgow,"Scotland, UK",City Centre
+29,The Hague,The Netherlands,Beatrixkwartier
+30,Hamburg,Germany,Mitte
+31,Helsinki,Finland,Vironniemi
+32,Iași,Romania,Civic Centre and Palas
+33,Istanbul,Turkey,"Levent, Maslak, Ataşehir"
+34,Katowice,Poland,"Śródmieście, Katowice"
+35,Kiev,Ukraine,
+36,Lille,France,Euralille
+37,Lisbon,Portugal,Av da Liberdade and Parque das Nações
+38,Liverpool,"England, UK",City Centre
+39,London,"England, UK","City of London, Canary Wharf, London Docklands and City of Westminster"
+40,Lugano,Switzerland,Lugano Centro
+41,Lyon,France,Part-Dieu
+42,Luxembourg City,Luxembourg,Kirchberg
+43,Madrid,Spain,"AZCA, CTBA, Gran Vía"
+44,Malmö,Sweden,Centrum
+45,Manchester,"England, UK",Spinningfields and City Centre
+46,Marseille,France,Euroméditerranée
+47,Milan,Italy,"Porta Nuova District, Zona 1, Zona 2"
+48,Moscow,Russia,Central Administrative Okrug (Presnya/Moscow International Business Center)
+49,Munich,Germany,"Altstadt-Lehel, Ludwigsvorstadt-Isarvorstadt, Maxvorstadt"
+50,Nantes,France,"Euronantes, Île de Nantes"
+51,Naples,Italy,Centro Direzionale
+52,Nicosia,Cyprus,
+53,Oslo,Norway,Sentrum
+54,Paris,France,"La Défense, Bercy, Gobelins"
+55,Podgorica,Montenegro,Roman Square
+56,Prague,Czech Republic,
+57,Reykjavík,Iceland,"Borgartún (financial district), Miðborg (administrative and commercial district)"
+58,Rome,Italy,"EUR, Monti, Castro Pretorio"
+59,Rotterdam,The Netherlands,Rotterdam Centrum/Kop van Zuid
+60,Sarajevo,Bosnia and Herzegovina,Sarajevo Central Business District
+61,Sofia,Bulgaria,Business Park Sofia
+62,Stockholm,Sweden,Stockholm City Centre
+63,Stuttgart,Germany,"Stuttgart-Mitte, Stuttgart-Vaihingen (STEP) and Am Wallgraben) and Stuttgart-Fasanenhof (EnBW-City)"
+64,Tallinn,Estonia,Maakri
+65,Tórshavn,Faroe Islands,Tinganes
+66,Trondheim,Norway,Midtbyen
+67,Turku,Finland,Turku City Centre
+68,Valencia,Spain,
+69,Vantaa,Finland,Aviapolis
+70,Vienna,Austria,Innere Stadt and Donau City
+71,Warsaw,Poland,"Śródmieście, Warsaw, Wola"
+72,Yekaterinburg,Russia,Yekaterinburg-City
+73,Zagreb,Croatia,"Kanal, Zagreb, Trnje"
+74,Zürich,Switzerland,Altstadt
+0,Albuquerque,United States,Downtown Albuquerque
+1,Allentown,United States,Center City
+2,Anchorage,United States,Downtown Anchorage
+3,Atlanta,United States,"Downtown, Midtown, Buckhead"
+4,Arlington,United States,Rosslyn
+5,Baltimore,United States,"Downtown, Hamilton, Inner Harbor, Harbor East, Towson"
+6,Boston,United States,"Financial District, Back Bay"
+7,Burnaby,Canada,"Metrotown, Brentwood, Edmonds"
+8,Calgary,Canada,"Downtown, Macleod Trail"
+9,Charlotte,United States,"Uptown, Southpark"
+10,Chicago,United States,"Chicago Loop, Near North Side"
+11,Cincinnati,United States,Downtown
+12,Cleveland,United States,"Downtown, University Circle"
+13,Dallas,United States,"Downtown, Platinum Corridor, Stemmons Corridor"
+14,Dayton,United States,Downtown Dayton
+15,Denver,United States,"Downtown, Tech Center"
+16,Detroit,United States,Financial District
+17,Edmonton,Canada,"Downtown, Strathcona, Summerlea"
+18,Fort Worth,United States,Downtown
+19,Guadalajara,Mexico,"Puerta de Hierro, Chapultepec Av, de las Americas Av"
+20,Hartford,United States,Downtown
+21,Halifax,Canada,Downtown
+22,"Hamilton, Ontario",Canada,King and James
+23,Houston,United States,"Downtown, Uptown, Texas Medical Center, Greenway Plaza, Energy Corridor, Greenspoint, Westchase"
+24,Indianapolis,United States,Downtown
+25,Jacksonville,United States,"Downtown, LaVilla, Brooklyn, Southbank"
+26,Kansas City,United States,Downtown
+27,Las Vegas,United States,"Downtown Las Vegas, Fremont Street"
+28,London,Canada,Downtown
+29,Los Angeles,United States,"Downtown, Financial District, Century City, Wilshire (Wilshire Center/Koreatown, Miracle Mile), Hollywood, Westwood, Beverly Hills, West Los Angeles, Santa Monica, El Segundo [3][4][5]"
+30,Louisville,United States,Downtown
+31,Mexico City,Mexico,"Paseo de la Reforma, City Santa Fe, Polanco, Interlomas, CBD Perisur"
+32,Miami,United States,"Downtown, Brickell"
+33,Milwaukee,United States,Downtown
+34,Minneapolis,United States,"Downtown East, Minneapolis, Downtown West, Minneapolis"
+35,Mississauga,Canada,"Downtown, Port Credit"
+36,Monterrey,Mexico,"Downtown Monterrey, San Pedro Garza García, Valle Oriente"
+37,Montreal,Canada,Downtown
+38,New Orleans,United States,CBD
+39,New York City,United States,"Midtown Manhattan, Lower Manhattan, Financial District, Downtown Brooklyn, Downtown Flushing, Long Island City, Downtown Jamaica, Fordham, The Hub"
+40,Norfolk,United States,Downtown
+41,Oakland,United States,"Downtown, Jack London Square"
+42,Oklahoma City,United States,Downtown
+43,Omaha,United States,Downtown Omaha
+44,Orlando,United States,Downtown Orlando
+45,Ottawa,Canada,Downtown
+46,Philadelphia,United States,"Center City, University City"
+47,Phoenix,United States,Downtown
+48,Pittsburgh,United States,"Downtown, Oakland"
+49,Plano,United States,Legacy West
+50,Portland,United States,"Downtown, Lloyd District"
+51,Prince Albert,Canada,Central Business District or Downtown
+52,Providence,United States,Downcity
+53,Puebla,Mexico,Angelopolis
+54,Quebec City,Canada,"La Cite, Sainte Foy, Lévis"
+55,Regina,Canada,Downtown
+56,Richmond,United States,Downtown
+57,Rochester,United States,Downtown
+58,Salt Lake City,United States,"Downtown Salt Lake City (City Creek Center), Central City"
+59,Saskatoon,Canada,Central Business District
+60,St. John's,Canada,Water Street
+61,St. Louis,United States,Downtown
+62,Saint Paul,United States,Downtown Saint Paul
+63,San Diego,United States,"Downtown, La Jolla, University City, Rancho Bernardo, Carmel Valley, Mission Valley, Sorrento Mesa, Del Mar Heights"
+64,San Francisco,United States,Financial District
+65,San Jose,United States,Downtown
+66,San Juan,United States,Hato Rey
+67,Seattle,United States,"Downtown, South Lake Union"
+68,Stamford,United States,Downtown
+69,Tampa,United States,"Downtown, Uptown, Westshore"
+70,Tijuana,Mexico,Zona Río
+71,Toronto,Canada,"Downtown, Midtown, North York City Centre, Scarborough City Centre, Islington-City Centre West"
+72,Vancouver,Canada,"Downtown, Broadway, Surrey City Centre"
+73,Virginia Beach,United States,Town Center
+74,"Washington, D.C.",United States,"Downtown, NoMa, Tysons Corner, Rosslyn, Ballston, Pentagon City-Crystal City, Downtown Bethesda, Reston Town Center, Downtown Silver Spring"
+75,Winnipeg,Canada,"Downtown, Saint Boniface"
+0,Adelaide,Australia,Adelaide CBD
+1,Auckland,New Zealand,Auckland CBD
+2,Brisbane,Australia,Brisbane CBD
+3,Canberra,Australia,City
+4,Christchurch,New Zealand,Christchurch Central City
+5,Darwin,Australia,Darwin City
+6,Gold Coast,Australia,"Broadbeach, Surfers Paradise, Southport"
+7,Hobart,Australia,Hobart city centre
+8,Melbourne,Australia,"Melbourne CBD, Southbank, Melbourne Docklands"
+9,Newcastle,Australia,"Wickham, Hamilton"
+10,Perth,Australia,"Perth CBD, Fremantle"
+11,Suva,Fiji,Central
+12,Sydney,Australia,"Sydney CBD, Parramatta, North Sydney"
+13,Wellington,New Zealand,Wellington Central
+0,Barranquilla,Colombia,Paseo de Bolívar
+1,Belo Horizonte,Brazil,"Avenida Afonso Pena, Praça Sete, Avenida Amazonas"
+2,Bogota,Colombia,"Centro Internacional de Bogotá, Avenida Chile, Ciudad Salitre, World Trade Center Calle 100, Complejo Empresarial Santa Bárbara"
+3,Brasília,Brazil,Eixo Monumental
+4,Buenos Aires,Argentina,"Puerto Madero, Buenos Aires Central Business District"
+5,Caracas,Venezuela,"Chacao, Milla de Oro, Plaza Venezuela, Parque Central Complex, Las Mercedes, El Rosal, Altamira, El Recreo"
+6,Cartagena de Indias,Colombia,Bocagrande
+7,Guatemala City,Guatemala,Zone 1
+8,Havana,Cuba,Vedado
+9,Lima,Peru,"San Isidro, Surco (El Derby), Downtown Lima"
+10,Medellín,Colombia,El Poblado
+11,Montería,Colombia,Avenida Primera
+12,Port of Spain,Trinidad and Tobago,Town
+13,Rio de Janeiro,Brazil,"Centro Financeiro do Rio, Porto Maravilha (under construction)"
+14,São Paulo,Brazil,"Paulista Avenue, Faria Lima, Brooklin, Vila Olímpia, Downtown São Paulo, Alphaville"
+15,San Salvador,El Salvador,District 3
+16,Santiago,Chile,Sanhattan
+17,Santo Domingo,Dominican Republic,Polígono Central
