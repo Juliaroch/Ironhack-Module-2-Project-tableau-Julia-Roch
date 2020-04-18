@@ -5,6 +5,8 @@ This project is an analysis of Starbucks' stores over the world. There are three
 This project was done to explore Tableau and put in practice the classes we received during the week. My database was downloaded from kaggle, also I did some web scrapping to enrich the database.
 Additionally, I had o clean the data in order to standardize the information.
 
+![Image](https://cdn4.creativecirclemedia.com/severna/original/20191014-155912-Sparks-Lake-Shore-Starbucks-1.jpg)
+
 This is database: https://www.kaggle.com/starbucks/store-locations
 
 ### :running: **One-liner**
